@@ -1,0 +1,46 @@
+h1{
+    color: white;
+
+}
+
+header{
+    background-color: rgb(36, 117, 174);
+}
+
+a:hover{
+    color: green;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: purple;
+    background-color: grey;
+}
+
+h4{
+    color: brown;
+    background: yellow;
+}
+
+h5{
+    color: aqua;
+}
+
+#balls{
+    background-color: blanchedalmond;
+}
+
+#see{
+    background-color: green;
+}
+
+#gg{
+    color: violet;
+}
+
+#well{
+    color: orange;
+}
